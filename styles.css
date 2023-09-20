@@ -1,0 +1,17 @@
+header{
+height: 400px;
+}
+
+nav{
+height: 400px;
+}
+
+article{
+height: 400px;
+display: inline;
+}
+
+aside{
+height: 400px;
+display: inline;
+}
