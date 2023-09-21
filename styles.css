@@ -6,12 +6,16 @@ nav{
 height: 400px;
 }
 
-article{
-height: 400px;
-display: inline;
+section {
+    display: flex;
 }
 
-aside{
-height: 400px;
-display: inline;
+article {
+    height: 400px;
+    flex: 1;
+}
+
+aside {
+    height: 400px;
+    width: 200px;
 }
