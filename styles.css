@@ -1,13 +1,17 @@
 header{
+border: 1px solid red;    
 height: 400px;
 }
 
 nav{
+border: 1px solid blue;    
 height: 400px;
 }
 
 section {
-    display: flex;
+    border: 1px solid blue;
+    height: 200px;
+    width: 400px;
 }
 
 article {
@@ -16,6 +20,7 @@ article {
 }
 
 aside {
-    height: 400px;
-    width: 200px;
+    border: 1px solid red;
+    height: 200px;
+    width: 400px;
 }
