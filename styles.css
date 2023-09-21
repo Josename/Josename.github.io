@@ -1,3 +1,8 @@
+main{
+    border: 1px solid blue;
+    width: 1320px;
+}
+
 header{
 border: 1px solid red;    
 height: 400px;
@@ -12,6 +17,7 @@ section {
     border: 1px solid blue;
     height: 200px;
     width: 400px;
+    float: right;
 }
 
 article {
@@ -23,4 +29,11 @@ aside {
     border: 1px solid red;
     height: 200px;
     width: 400px;
+}
+
+footer {
+    clear: both;
+    border: 1px solid blue;
+    height: 50px;
+
 }
